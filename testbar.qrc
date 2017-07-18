@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/skin">
+        <file>skin/tab_btn_close_hover.png</file>
+        <file>skin/tab_btn_close_normal.png</file>
+        <file>skin/tab_bg.png</file>
+        <file>skin/tab_btn_bg_checked.png</file>
+        <file>skin/tab_btn_bg_hover.png</file>
+        <file>skin/tab_btn_bg_normal.png</file>
+    </qresource>
+</RCC>

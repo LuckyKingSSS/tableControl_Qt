@@ -1,0 +1,23 @@
+﻿生成启动时间为 2017/7/18 17:46:11。
+     1>项目“D:\allProject\QT\TableContol\TestTabbar\TestTabbar.vcxproj”在节点 2 上(Build 个目标)。
+     1>CustomBuild:
+         Moc'ing ccustomtabwidget.h...
+         Moc'ing dialog.h...
+       ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IE:\programFilee\Qt\Qt5.4.0\5.4\msvc2013_64_opengl\\include\QtWidgets /IE:\programFilee\Qt\Qt5.4.0\5.4\msvc2013_64_opengl\\include /IE:\programFilee\Qt\Qt5.4.0\5.4\msvc2013_64_opengl\\include\QtGui /IE:\programFilee\Qt\Qt5.4.0\5.4\msvc2013_64_opengl\\include\QtCore /Idebug /I"E:\programFilee\Qt\Qt5.4.0\5.4\msvc2013_64_opengl\\mkspecs\win32-msvc2013" /I.\GeneratedFiles /Zi /nologo /W3 /WX- /Od /D _WINDOWS /D QT_CORE_LIB /D QT_GUI_LIB /D UNICODE /D UNICODE /D WIN32 /D WIN32 /D WIN64 /D _MBCS /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt -Zm200 -w34100 -w34189 Debug\moc_ccustomtabwidget.cpp Debug\moc_dialog.cpp
+         moc_ccustomtabwidget.cpp
+         moc_dialog.cpp
+         正在生成代码...
+       Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\allProject\QT\TableContol\TestTabbar\x64\Debug\\TestTabbar.exe" /NOLOGO /LIBPATH:E:\programFilee\Qt\Qt5.4.0\5.4\msvc2013_64_opengl\\lib /LIBPATH:E:\programFilee\Qt\Qt5.4.0\5.4\msvc2013_64_opengl\\lib /LIBPATH:E:\programFilee\Qt\Qt5.4.0\5.4\msvc2013_64_opengl\\lib glu32.lib opengl32.lib gdi32.lib user32.lib E:\programFilee\Qt\Qt5.4.0\5.4\msvc2013_64_opengl\\lib\qtmaind.lib shell32.lib E:\programFilee\Qt\Qt5.4.0\5.4\msvc2013_64_opengl\\lib\Qt5Cored.lib E:\programFilee\Qt\Qt5.4.0\5.4\msvc2013_64_opengl\\lib\Qt5Guid.lib E:\programFilee\Qt\Qt5.4.0\5.4\msvc2013_64_opengl\\lib\Qt5Cored.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Widgetsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\allProject\QT\TableContol\TestTabbar\x64\Debug\TestTabbar.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /MACHINE:X64 "/MANIFESTDEPENDENCY:type='win32' name='Microsoft.Windows.Common-Controls' version='6.0.0.0' publicKeyToken='6595b64144ccf1df' language='*' processorArchitecture='*'" x64\Debug\ccustomtabwidget.obj
+         x64\Debug\moc_ccustomtabwidget.obj
+         x64\Debug\moc_dialog.obj
+         x64\Debug\dialog.obj
+         x64\Debug\qrc_testbar.obj
+         x64\Debug\main.obj
+         TestTabbar.vcxproj -> D:\allProject\QT\TableContol\TestTabbar\x64\Debug\TestTabbar.exe
+     1>已完成生成项目“D:\allProject\QT\TableContol\TestTabbar\TestTabbar.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.88
